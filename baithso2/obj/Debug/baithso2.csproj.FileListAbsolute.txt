@@ -1,0 +1,6 @@
+e:\c#\baithso2\baithso2\bin\Debug\baithso2.exe.config
+E:\c#\baithso2\baithso2\bin\Debug\baithso2.exe
+E:\c#\baithso2\baithso2\bin\Debug\baithso2.pdb
+E:\c#\baithso2\baithso2\obj\Debug\baithso2.csprojResolveAssemblyReference.cache
+E:\c#\baithso2\baithso2\obj\Debug\baithso2.exe
+E:\c#\baithso2\baithso2\obj\Debug\baithso2.pdb
