@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="bai1.cs" />
     <Compile Include="bai2.cs" />
+    <Compile Include="bai3.cs" />
+    <Compile Include="bai4.cs" />
+    <Compile Include="bai5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

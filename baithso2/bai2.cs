@@ -95,7 +95,7 @@ namespace baithso2
 
 
     }
-    class APP
+    class APP1
     {
         static void Main2()
         {
