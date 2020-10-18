@@ -1,6 +1,0 @@
-e:\c#\Baithuchanhso1\Baithuchanhso1\bin\Debug\Baithuchanhso1.exe.config
-e:\c#\Baithuchanhso1\Baithuchanhso1\obj\Debug\Baithuchanhso1.csprojResolveAssemblyReference.cache
-e:\c#\Baithuchanhso1\Baithuchanhso1\bin\Debug\Baithuchanhso1.exe
-e:\c#\Baithuchanhso1\Baithuchanhso1\bin\Debug\Baithuchanhso1.pdb
-e:\c#\Baithuchanhso1\Baithuchanhso1\obj\Debug\Baithuchanhso1.exe
-e:\c#\Baithuchanhso1\Baithuchanhso1\obj\Debug\Baithuchanhso1.pdb
